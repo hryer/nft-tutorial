@@ -13,9 +13,12 @@ npx hardhat run scripts/deploy.js
 ```
 
 ---
-### notes
-- Get Wizard from openzeppelin
-- Demo create modifier supply and everybody can mint
+### notes, step by step
+- create metamask account
+- faucet & setup rpc goerli 
+- Get Wizard from openzeppelin erc 721
+- Demo create var and modifier supply and everybody can mint (we don't need ownable)
 - See opensea standard nft
 - Create json and add picture from ipfs gateway url pic
--   
+- deploy smart contract
+
