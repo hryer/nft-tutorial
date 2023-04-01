@@ -15,7 +15,7 @@ npx hardhat run scripts/deploy.js
 ---
 ### notes, step by step
 - create metamask account
-- faucet & setup rpc goerli 
+- faucet & setup rpc goerli
 - Get Wizard from openzeppelin erc 721
 - Demo create var and modifier supply and everybody can mint (we don't need ownable)
 - See opensea standard nft
